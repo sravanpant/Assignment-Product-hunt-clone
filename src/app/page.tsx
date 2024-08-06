@@ -1,8 +1,8 @@
 import "@mantine/core/styles.css";
 import { createTheme, MantineProvider } from "@mantine/core";
 import ProductCard from "@/components/ProductCard";
-import Pic1 from "/home/sravan/Coding/WebDev/product-hunt-clone/public/image1.png";
-import Pic2 from "/home/sravan/Coding/WebDev/product-hunt-clone/public/image2.png";
+import Pic1 from "/public/image1.png";
+import Pic2 from "/public/image2.png";
 
 const theme = createTheme({
   /** Put your mantine theme override here */
